@@ -1,6 +1,6 @@
-# Replit Agent
+# [Replit Agent](https://replit.com)
 
-Replit Agent is useful because Replit combines the editor, runtime, terminal, hosting, and AI assistant in the browser.
+[Replit Agent](https://replit.com) is useful because Replit combines the editor, runtime, terminal, hosting, and AI assistant in the browser.
 
 ## Good For
 

@@ -1,6 +1,6 @@
-# Lovable
+# [Lovable](https://lovable.dev)
 
-Lovable is useful for turning a natural-language idea into a web app.
+[Lovable](https://lovable.dev) is useful for turning a natural-language idea into a web app.
 
 ## Good For
 

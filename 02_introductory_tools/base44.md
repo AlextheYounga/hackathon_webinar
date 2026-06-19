@@ -1,8 +1,8 @@
-# Base44
+# [Base44](https://base44.com)
 
 ## What Is Base44?
 
-Base44 is an AI app builder.
+[Base44](https://base44.com) is an AI app builder.
 
 You describe what you want to build, and Base44 helps generate the app.
 

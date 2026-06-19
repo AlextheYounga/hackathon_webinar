@@ -1,4 +1,4 @@
-# OpenRouter
+# [OpenRouter](https://openrouter.ai)
 
 OpenRouter is different from coding agents.
 
@@ -33,5 +33,5 @@ It is an API layer for using many AI models through one interface.
 * Some models are better at coding, writing, vision, or reasoning
 * Prompt quality matters
 * Never expose API keys in frontend code
-* Never commit API keys to GitHub
+* Never commit API keys to [GitHub](https://github.com)
 

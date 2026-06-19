@@ -1,8 +1,8 @@
-# Cursor
+# [Cursor](https://cursor.sh)
 
 Cursor is an AI-focused code editor.
 
-It is useful because it feels familiar to students who already use VS Code-style editors.
+It is useful because it feels familiar to students who already use [VS Code](https://code.visualstudio.com)-style editors.
 
 ## Good For
 

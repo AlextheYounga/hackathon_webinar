@@ -1,6 +1,6 @@
-# Claude Code
+# [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)
 
-Claude Code is an agentic coding tool from Anthropic.
+Claude Code is an agentic coding tool from [Anthropic](https://anthropic.com).
 
 It can work with your project files and run commands depending on your permission settings.
 

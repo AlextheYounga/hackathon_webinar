@@ -16,9 +16,9 @@ The main idea:
 
 Examples:
 
-- ChatGPT
-- Claude
-- Gemini
+- [ChatGPT](https://chatgpt.com)
+- [Claude](https://claude.ai)
+- [Gemini](https://gemini.google.com)
 
 Best for:
 
@@ -51,12 +51,12 @@ Please help me turn this into:
 
 Examples:
 
-* Lovable
-* Wix
-* Bolt
-* Replit Agent
-* v0
-* Base44
+* [Lovable](https://lovable.dev)
+* [Wix](https://wix.com)
+* [Bolt](https://bolt.new)
+* [Replit Agent](https://replit.com)
+* [v0](https://v0.dev)
+* [Base44](https://base44.com)
 	* It can help with:
 		- App structure
 		- User interface
@@ -90,11 +90,11 @@ They reduce setup problems.
 
 You may not need to install:
 
-* Node.js
-* Python
+* [Node.js](https://nodejs.org)
+* [Python](https://python.org)
 * Databases
-* Git
-* Docker
+* [Git](https://git-scm.com)
+* [Docker](https://docker.com)
 * Local editors
 * Package managers
 

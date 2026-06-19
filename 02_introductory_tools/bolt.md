@@ -1,6 +1,6 @@
-# Bolt
+# [Bolt](https://bolt.new)
 
-Bolt is useful for building web apps directly in the browser.
+[Bolt](https://bolt.new) is useful for building web apps directly in the browser.
 
 ## Good For
 

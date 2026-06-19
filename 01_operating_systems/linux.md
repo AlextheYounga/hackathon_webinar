@@ -24,7 +24,7 @@ Unavoidable over the long run.
 
 ## Distributions
 
-### Ubuntu
+### [Ubuntu](https://ubuntu.com)
 
 <img src="../.images/ubuntu.png" style="width:1000px;" />
 
@@ -35,7 +35,7 @@ Good default choice for most students.
 - Lots of tutorials
 - Common on servers
 
-### Pop!_OS
+### [Pop!_OS](https://pop.system76.com)
 
 <img src="../.images/pop_os.png" style="width:1000px;" />
 
@@ -46,7 +46,7 @@ Good Ubuntu-based option, especially for developer laptops.
 - Popular with technical users
 - Has become increasingly popular.
 
-### Arch Linux
+### [Arch Linux](https://archlinux.org)
 
 Important note:
 
@@ -64,7 +64,7 @@ Advanced option.
 
 
 
-### Omarchy
+### [Omarchy](https://omarchy.org)
 
 A more opinionated Arch-based setup.
 

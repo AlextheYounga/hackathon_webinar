@@ -1,4 +1,4 @@
-# OpenCode
+# [OpenCode](https://opencode.ai)
 
 OpenCode is an open-source AI coding agent.
 

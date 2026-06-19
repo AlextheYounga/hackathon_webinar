@@ -7,7 +7,7 @@ macOS is popular among developers because it has a Unix-like terminal while stil
 - Good terminal experience
 - Works well with Git, Node.js, Python, and most developer tools
 - Strong support for VS Code
-- Homebrew makes installing developer tools easier
+- [Homebrew](https://brew.sh) makes installing developer tools easier
 - Similar enough to Linux for many tutorials
 
 ## Cons
@@ -22,8 +22,8 @@ macOS is popular among developers because it has a Unix-like terminal while stil
 
 If you are using macOS:
 
-- Install Homebrew
-- Install Git
-- Install Node.js LTS
-- Use VS Code or Cursor
+- Install [Homebrew](https://brew.sh)
+- Install [Git](https://git-scm.com)
+- Install [Node.js](https://nodejs.org) LTS
+- Use [VS Code](https://code.visualstudio.com) or [Cursor](https://cursor.sh)
 - Test your project before the hackathon

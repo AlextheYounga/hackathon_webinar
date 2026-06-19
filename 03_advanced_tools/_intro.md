@@ -15,7 +15,7 @@ They can:
 - Write tests
 - Refactor code
 - Explain unfamiliar codebases
-- Help with Git workflows
+- Help with [Git](https://git-scm.com) workflows
 
 But they also require more responsibility.
 
@@ -25,9 +25,9 @@ But they also require more responsibility.
 
 Examples:
 
-- Claude Code
-- OpenCode
-- Cursor
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)
+- [OpenCode](https://opencode.ai)
+- [Cursor](https://cursor.sh)
 
 These tools work closer to your real development environment.
 
