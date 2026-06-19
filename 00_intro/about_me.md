@@ -4,7 +4,7 @@
 - Alex Younger
 - https://alextheyounger.me
 - Programmer, Engineer of ~10 years
-- You have probably have indirectly used some of my code.
+- Made substantial improvements to the Python ecosystem that are used by thousands of projects including many Microsoft AI programs.
 - Worked with dozens of different tech stacks for small and large companies, built AI systems from scratch.
 - Has broken many things and learned from it!
 
